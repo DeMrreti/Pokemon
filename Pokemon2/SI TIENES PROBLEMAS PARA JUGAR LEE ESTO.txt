@@ -1,0 +1,11 @@
+GUIA DE UNA POSIBLE SOLUCIÓN SI TIENES PROBLEMAS PARA JUGAR POR UN ERROR DE OPENGL O TE SALEN UNAS BARRAS VERDES:
+
+1. Borra el archivo Game.exe
+
+2. Entra en la carpeta Audio y renombra el archivo GameOld.exe a Game.Exe
+
+3. Mueve el nuevo Game.exe al mismo sitio donde estaba el primer Game.exe
+
+4. Juega al juego desde ese nuevo Game.exe
+
+ES POSIBLE QUE ESTO NO SOLUCIONE EL PROBLEMA SI TU PC ES DEMASIADO VIEJO
